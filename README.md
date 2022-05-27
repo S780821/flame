@@ -4,7 +4,7 @@
 
 ## RAILWAY 🚃 DEPLOY
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/S780821/Railway_deploy&envs=API_HASH,API_ID,ASS_ID,BOT_TOKEN,CHANNEL,DURATION_LIMIT,GROUP,LOG_GROUP_ID,MONGO_DB_URI,OWNER_ID,SESSION_NAME,SUDO_USERS,UPSTREAM_BRANCH,UPSTREAM_REPO"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/S780821/Flame-MusicRail&env=SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,,API_ID,API_HASH,GROUP_SUPPORT,UPDATES_CHANNEL,BOT_TOKEN,DURATION_LIMIT,SUDO_USERS"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-red?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 # 🚀 Okteto Deployment
 

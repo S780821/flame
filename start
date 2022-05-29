@@ -21,4 +21,4 @@ git clone https://github.com/S780821/Flame-Music Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals
-python3 -m Flame
+python3 main.py
